@@ -6,15 +6,19 @@ codegym/config/ApplicationInitializer.java
  codegym.config.ApplicationInitializer
 codegym/config/ApplicationConfig.java
  codegym.config.ApplicationConfig
+codegym/aspect/Logger.java
+ codegym.aspect.Logger
+codegym/model/Oder.java
+ codegym.model.Oder
+codegym/service/OderService.java
+ codegym.service.OderService
 codegym/service/BookService.java
  codegym.service.BookService
 codegym/model/Book.java
  codegym.model.Book
-codegym/service/OderService.java
- codegym.service.OderService
-codegym/model/Oder.java
- codegym.model.Oder
-codegym/aspect/Logger.java
- codegym.aspect.Logger
+codegym/model/User.java
+ codegym.model.User
 codegym/controller/HomeController.java
  codegym.controller.HomeController
+codegym/controller/LoginController.java
+ codegym.controller.LoginController
